@@ -20,17 +20,7 @@ Alongside my AI work, I build Java applications and Spring Boot backends.
 
 **Chest X-ray classification with ResNet18:** transfer learning, partial fine-tuning, class-level evaluation, decision-threshold analysis, and Grad-CAM heatmaps for inspecting predictions. The source repository is currently private.
 
-## Selected public projects
-
-| Project | What it demonstrates | Technologies |
-| --- | --- | --- |
-| [Industrial Anomaly Detection](https://github.com/shmuradd/industrial-anomaly-detection) | Normal-only learning, calibrated defect detection, reproducible benchmark results, and visual error inspection. | Python, PyTorch, ResNet18, NumPy, scikit-learn |
-| [Traffic Sign Recognition](https://github.com/shmuradd/traffic-sign-recognition) | A trained image classifier with track-disjoint validation, reproducible evaluation, and visual error analysis. | Python, PyTorch, ResNet18, scikit-learn |
-| [Clinic Review API](https://github.com/shmuradd/ClinicApp) | Doctor and clinic records, review submission and moderation, and scheduling endpoints. | Java, Spring Boot, PostgreSQL, Liquibase |
-| [Eduhome Education Platform](https://github.com/shmuradd/Eduhome_web_app_final) | Course and content management with a web interface, authentication, and an administration dashboard. | Java, Spring Boot, Thymeleaf, Spring Security |
-| [Flight Booking Console](https://github.com/shmuradd/FlightConsoleApp_updated) | A console project for flight search, passenger records, and in-memory bookings. | Java, object-oriented programming |
-
 ## Tools I use
 
-**AI and data:** Python, PyTorch, TorchVision, NumPy, scikit-learn, Matplotlib  
+**AI and data:** Python, PyTorch, TorchVision, NumPy, scikit-learn, Matplotlib, MATLAB
 **Application development:** Java, Spring Boot, PostgreSQL, Thymeleaf, Maven, Gradle
